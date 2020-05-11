@@ -1,0 +1,19 @@
+// Place all the styles related to the Question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$orangeyou: #FA9D89;
+$greycoach: #E4E4E4;
+h1 {
+    font-size: 16px;
+    font-family: roboto;
+    color: $orangeyou;
+}
+
+body {
+  background: $greycoach; 
+}
+
+p {
+    background: $orangeyou;
+}

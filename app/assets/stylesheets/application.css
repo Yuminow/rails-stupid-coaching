@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ $orangeyou: #FA9D89;
+ $greycoach: #E4E4E4;
+
+ body {
+   background: $greycoach; 
+ }
+ a {
+    color: grey;
+    &:hover {
+      color: black;
+    }
+  }
+
